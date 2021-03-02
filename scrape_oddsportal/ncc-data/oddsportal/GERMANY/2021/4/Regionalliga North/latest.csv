@@ -1,0 +1,51 @@
+,Country,League,Div,Season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,B365H,B365D,B365A
+0,GERMANY,Regionalliga North,4,2021,2020-12-02,18:30:00,Altona,Heider SV,0,0,NA,0.0,0.0,0.0
+1,GERMANY,Regionalliga North,4,2021,2020-11-03,18:00:00,Werder Bremen II,TSV Havelse,0,0,NA,0.0,0.0,0.0
+2,GERMANY,Regionalliga North,4,2021,2020-11-01,13:00:00,Hannoverscher SC,Oberneuland,1,3,A,2.32,3.59,2.72
+3,GERMANY,Regionalliga North,4,2021,2020-11-01,13:00:00,Hildesheim,Oldenburg,0,0,NA,0.0,0.0,0.0
+4,GERMANY,Regionalliga North,4,2021,2020-11-01,13:00:00,Holstein Kiel II,Hamburger SV II,1,3,A,2.79,3.86,2.22
+5,GERMANY,Regionalliga North,4,2021,2020-11-01,13:00:00,Luneburger Hansa,Phonix Lubeck,0,0,NA,0.0,0.0,0.0
+6,GERMANY,Regionalliga North,4,2021,2020-11-01,13:00:00,Teutonia Ottensen,SC Weiche-08,1,2,A,3.72,3.86,1.82
+7,GERMANY,Regionalliga North,4,2021,2020-10-31,13:00:00,Werder Bremen II,Hannover II,0,0,NA,0.0,0.0,0.0
+8,GERMANY,Regionalliga North,4,2021,2020-10-25,14:00:00,Oberneuland,Hildesheim,0,1,A,2.84,3.28,2.45
+9,GERMANY,Regionalliga North,4,2021,2020-10-25,13:00:00,Oldenburg,BSV Rehden,3,1,H,2.27,3.55,2.85
+10,GERMANY,Regionalliga North,4,2021,2020-10-25,13:00:00,St. Pauli II,Norderstedt,3,0,H,3.23,3.76,2.03
+11,GERMANY,Regionalliga North,4,2021,2020-10-25,13:00:00,TSV Havelse,Hannoverscher SC,3,0,H,1.27,5.81,8.51
+12,GERMANY,Regionalliga North,4,2021,2020-10-24,12:00:00,Heider SV,Teutonia Ottensen,2,0,H,6.18,4.8,1.4
+13,GERMANY,Regionalliga North,4,2021,2020-10-24,11:00:00,Wolfsburg II,Werder Bremen II,1,2,A,2.87,3.31,2.34
+14,GERMANY,Regionalliga North,4,2021,2020-10-23,17:30:00,Drochtersen/Assel,Luneburger Hansa,2,0,H,1.57,4.01,5.84
+15,GERMANY,Regionalliga North,4,2021,2020-10-21,17:00:00,Wolfsburg II,BSV Rehden,1,3,A,2.27,3.82,2.66
+16,GERMANY,Regionalliga North,4,2021,2020-10-21,16:30:00,Werder Bremen II,Oberneuland,4,1,H,1.37,4.79,7.22
+17,GERMANY,Regionalliga North,4,2021,2020-10-19,12:00:00,St. Pauli II,Hamburger SV II,1,1,D,2.98,3.6,2.14
+18,GERMANY,Regionalliga North,4,2021,2020-10-18,13:00:00,Hildesheim,Hannoverscher SC,2,4,A,1.83,3.77,3.78
+19,GERMANY,Regionalliga North,4,2021,2020-10-18,13:00:00,Luneburger Hansa,SC Weiche-08,1,2,A,5.24,4.07,1.56
+20,GERMANY,Regionalliga North,4,2021,2020-10-18,12:00:00,Holstein Kiel II,Drochtersen/Assel,3,1,H,2.83,3.65,2.23
+21,GERMANY,Regionalliga North,4,2021,2020-10-18,12:00:00,Teutonia Ottensen,Norderstedt,1,2,A,2.81,3.75,2.23
+22,GERMANY,Regionalliga North,4,2021,2020-10-17,14:00:00,Delmenhorst,Oldenburg,0,0,NA,0.0,0.0,0.0
+23,GERMANY,Regionalliga North,4,2021,2020-10-17,13:00:00,BSV Rehden,Oberneuland,3,0,H,1.68,3.74,4.78
+24,GERMANY,Regionalliga North,4,2021,2020-10-17,12:00:00,Werder Bremen II,Jeddeloh,2,2,D,1.64,4.22,4.27
+25,GERMANY,Regionalliga North,4,2021,2020-10-16,17:00:00,TSV Havelse,Hannover II,2,0,H,1.63,4.19,4.42
+26,GERMANY,Regionalliga North,4,2021,2020-10-11,13:00:00,Hannoverscher SC,BSV Rehden,1,3,A,4.32,3.85,1.7
+27,GERMANY,Regionalliga North,4,2021,2020-10-11,13:00:00,Hildesheim,TSV Havelse,1,1,D,4.1,3.85,1.74
+28,GERMANY,Regionalliga North,4,2021,2020-10-11,13:00:00,Oberneuland,Delmenhorst,1,0,H,2.88,3.88,2.1
+29,GERMANY,Regionalliga North,4,2021,2020-10-11,13:00:00,Oldenburg,Werder Bremen II,1,3,A,2.33,3.52,2.74
+30,GERMANY,Regionalliga North,4,2021,2020-10-11,12:00:00,Norderstedt,Altona,1,0,H,1.38,4.96,6.43
+31,GERMANY,Regionalliga North,4,2021,2020-10-11,12:00:00,Teutonia Ottensen,St. Pauli II,0,3,A,1.64,4.05,4.49
+32,GERMANY,Regionalliga North,4,2021,2020-10-10,12:00:00,Heider SV,Luneburger Hansa,0,0,D,3.51,3.67,1.91
+33,GERMANY,Regionalliga North,4,2021,2020-10-10,11:30:00,SC Weiche-08,Holstein Kiel II,3,1,H,1.32,5.19,7.61
+34,GERMANY,Regionalliga North,4,2021,2020-10-10,11:00:00,Phonix Lubeck,Hamburger SV II,1,0,H,3.0,3.63,2.1
+35,GERMANY,Regionalliga North,4,2021,2020-10-10,11:00:00,Wolfsburg II,Hannover II,1,2,A,1.7,4.18,4.0
+36,GERMANY,Regionalliga North,4,2021,2020-10-07,17:30:00,Altona,Teutonia Ottensen,1,4,A,4.2,3.71,1.73
+37,GERMANY,Regionalliga North,4,2021,2020-10-07,17:00:00,BSV Rehden,Hildesheim,2,0,H,2.07,3.49,3.2
+38,GERMANY,Regionalliga North,4,2021,2020-10-07,17:00:00,Hannover II,Jeddeloh,1,2,A,1.97,3.88,3.26
+39,GERMANY,Regionalliga North,4,2021,2020-10-07,17:00:00,St. Pauli II,Phonix Lubeck,0,3,A,2.43,3.47,2.74
+40,GERMANY,Regionalliga North,4,2021,2020-10-07,17:00:00,TSV Havelse,Wolfsburg II,3,1,H,2.11,3.84,2.83
+41,GERMANY,Regionalliga North,4,2021,2020-10-07,14:30:00,Delmenhorst,Hannoverscher SC,0,2,A,1.69,3.94,4.21
+42,GERMANY,Regionalliga North,4,2021,2020-10-07,14:30:00,Holstein Kiel II,Heider SV,2,1,H,1.56,4.17,4.95
+43,GERMANY,Regionalliga North,4,2021,2020-10-07,14:30:00,Luneburger Hansa,Norderstedt,1,1,D,3.13,3.57,2.09
+44,GERMANY,Regionalliga North,4,2021,2020-10-06,17:00:00,Hamburger SV II,Drochtersen/Assel,0,2,A,2.11,3.58,3.08
+45,GERMANY,Regionalliga North,4,2021,2020-10-04,13:00:00,Hildesheim,Delmenhorst,3,2,H,2.36,3.67,2.62
+46,GERMANY,Regionalliga North,4,2021,2020-10-04,13:00:00,Oldenburg,Hannover II,4,1,H,2.36,3.38,2.76
+47,GERMANY,Regionalliga North,4,2021,2020-10-04,12:00:00,Altona,St. Pauli II,1,2,A,2.65,3.59,2.37
+48,GERMANY,Regionalliga North,4,2021,2020-10-04,12:00:00,Norderstedt,Holstein Kiel II,3,0,H,1.66,4.13,4.28
+49,GERMANY,Regionalliga North,4,2021,2020-10-04,12:00:00,Teutonia Ottensen,Luneburger Hansa,4,0,H,1.71,4.11,4.0

@@ -1,0 +1,51 @@
+,Country,League,Div,Season,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,B365H,B365D,B365A
+0,GERMANY,3. Liga,3,2021,2021-01-12,18:00:00,Turkgucu Munchen,SG Dynamo Dresden,1,0,H,2.79,3.33,2.48
+1,GERMANY,3. Liga,3,2021,2021-01-10,13:00:00,Zwickau,Lubeck,2,1,H,2.46,3.12,2.95
+2,GERMANY,3. Liga,3,2021,2021-01-10,12:00:00,Ingolstadt,Duisburg,2,1,H,1.63,3.87,5.24
+3,GERMANY,3. Liga,3,2021,2021-01-09,13:00:00,Bayern II,Munich 1860,0,2,A,2.67,3.48,2.48
+4,GERMANY,3. Liga,3,2021,2021-01-09,13:00:00,Hansa Rostock,Unterhaching,1,0,H,2.12,3.15,3.64
+5,GERMANY,3. Liga,3,2021,2021-01-09,13:00:00,Kaiserslautern,Viktoria Koln,0,0,D,2.06,3.44,3.52
+6,GERMANY,3. Liga,3,2021,2021-01-09,13:00:00,Magdeburg,Uerdingen,1,1,D,3.05,3.17,2.38
+7,GERMANY,3. Liga,3,2021,2021-01-09,13:00:00,Meppen,Saarbrucken,1,0,H,3.1,3.49,2.2
+8,GERMANY,3. Liga,3,2021,2021-01-09,13:00:00,Wehen,Hallescher,1,1,D,2.19,3.32,3.27
+9,GERMANY,3. Liga,3,2021,2021-01-08,18:00:00,Mannheim,Verl,2,2,D,2.72,3.38,2.5
+10,GERMANY,3. Liga,3,2021,2020-12-23,16:30:00,Meppen,Turkgucu Munchen,1,4,A,3.07,3.45,2.22
+11,GERMANY,3. Liga,3,2021,2020-12-20,13:00:00,Zwickau,Hansa Rostock,0,2,A,3.22,3.23,2.25
+12,GERMANY,3. Liga,3,2021,2020-12-20,12:00:00,Verl,Turkgucu Munchen,0,1,A,2.07,3.58,3.31
+13,GERMANY,3. Liga,3,2021,2020-12-19,13:00:00,Viktoria Koln,SG Dynamo Dresden,2,4,A,3.82,3.61,1.9
+14,GERMANY,3. Liga,3,2021,2020-12-19,13:00:00,Lubeck,Meppen,0,2,A,2.11,3.41,3.39
+15,GERMANY,3. Liga,3,2021,2020-12-19,13:00:00,Saarbrucken,Ingolstadt,3,3,D,2.57,3.3,2.7
+16,GERMANY,3. Liga,3,2021,2020-12-19,13:00:00,Uerdingen,Kaiserslautern,0,2,A,2.41,3.18,3.01
+17,GERMANY,3. Liga,3,2021,2020-12-19,13:00:00,Unterhaching,Bayern II,1,1,D,2.35,3.46,2.84
+18,GERMANY,3. Liga,3,2021,2020-12-18,18:00:00,Munich 1860,Wehen,2,2,D,1.86,3.59,4.03
+19,GERMANY,3. Liga,3,2021,2020-12-16,18:00:00,Bayern II,Duisburg,1,1,D,1.82,3.99,3.8
+20,GERMANY,3. Liga,3,2021,2020-12-16,18:00:00,Viktoria Koln,Uerdingen,0,2,A,3.07,3.22,2.34
+21,GERMANY,3. Liga,3,2021,2020-12-16,18:00:00,Ingolstadt,Hansa Rostock,1,0,H,2.42,2.98,3.16
+22,GERMANY,3. Liga,3,2021,2020-12-16,18:00:00,Meppen,Zwickau,1,2,A,2.46,3.4,2.77
+23,GERMANY,3. Liga,3,2021,2020-12-15,18:00:00,SG Dynamo Dresden,Verl,4,1,H,2.31,3.39,2.99
+24,GERMANY,3. Liga,3,2021,2020-12-15,18:00:00,Kaiserslautern,Munich 1860,0,3,A,2.93,3.22,2.43
+25,GERMANY,3. Liga,3,2021,2020-12-15,18:00:00,Mannheim,Unterhaching,1,4,A,2.23,3.51,3.04
+26,GERMANY,3. Liga,3,2021,2020-12-15,18:00:00,Turkgucu Munchen,Hallescher,0,3,A,2.08,3.51,3.35
+27,GERMANY,3. Liga,3,2021,2020-12-15,18:00:00,Wehen,Lubeck,4,2,H,2.02,3.58,3.5
+28,GERMANY,3. Liga,3,2021,2020-12-13,13:00:00,Hansa Rostock,Meppen,0,2,A,1.56,4.09,5.57
+29,GERMANY,3. Liga,3,2021,2020-12-13,12:00:00,Saarbrucken,Bayern II,1,2,A,1.86,3.85,3.76
+30,GERMANY,3. Liga,3,2021,2020-12-12,13:00:00,Duisburg,Wehen,4,1,H,3.85,3.78,1.86
+31,GERMANY,3. Liga,3,2021,2020-12-12,13:00:00,Hallescher,SG Dynamo Dresden,1,3,A,2.95,3.23,2.41
+32,GERMANY,3. Liga,3,2021,2020-12-12,13:00:00,Lubeck,Magdeburg,1,1,D,2.12,3.37,3.4
+33,GERMANY,3. Liga,3,2021,2020-12-12,13:00:00,Munich 1860,Mannheim,5,0,H,2.04,3.62,3.36
+34,GERMANY,3. Liga,3,2021,2020-12-12,13:00:00,Uerdingen,Turkgucu Munchen,1,0,H,2.72,3.32,2.52
+35,GERMANY,3. Liga,3,2021,2020-12-12,13:00:00,Verl,Viktoria Koln,1,1,D,1.83,3.76,3.97
+36,GERMANY,3. Liga,3,2021,2020-12-11,18:00:00,Unterhaching,Kaiserslautern,2,0,H,2.83,3.2,2.52
+37,GERMANY,3. Liga,3,2021,2020-12-08,18:00:00,Meppen,Mannheim,2,0,H,3.62,3.69,1.94
+38,GERMANY,3. Liga,3,2021,2020-12-07,18:00:00,Bayern II,Zwickau,0,0,NA,0.0,0.0,0.0
+39,GERMANY,3. Liga,3,2021,2020-12-06,13:00:00,Verl,Hallescher,4,2,H,2.03,3.5,3.47
+40,GERMANY,3. Liga,3,2021,2020-12-06,12:00:00,Wehen,Hansa Rostock,2,1,H,2.83,3.25,2.46
+41,GERMANY,3. Liga,3,2021,2020-12-05,13:00:00,SG Dynamo Dresden,Uerdingen,0,0,D,2.06,3.34,3.55
+42,GERMANY,3. Liga,3,2021,2020-12-05,13:00:00,Viktoria Koln,Munich 1860,2,1,H,3.1,3.67,2.11
+43,GERMANY,3. Liga,3,2021,2020-12-05,13:00:00,Ingolstadt,Lubeck,1,1,D,1.79,3.59,4.3
+44,GERMANY,3. Liga,3,2021,2020-12-05,13:00:00,Kaiserslautern,Duisburg,2,2,D,1.65,3.84,5.01
+45,GERMANY,3. Liga,3,2021,2020-12-05,13:00:00,Mannheim,Saarbrucken,4,1,H,2.59,3.47,2.55
+46,GERMANY,3. Liga,3,2021,2020-12-04,18:00:00,Magdeburg,Meppen,0,0,D,2.15,3.31,3.33
+47,GERMANY,3. Liga,3,2021,2020-12-02,18:00:00,Hallescher,Unterhaching,2,0,H,2.42,3.3,2.88
+48,GERMANY,3. Liga,3,2021,2020-12-02,18:00:00,Hansa Rostock,Turkgucu Munchen,2,0,H,1.93,3.49,3.94
+49,GERMANY,3. Liga,3,2021,2020-11-30,18:00:00,Meppen,Ingolstadt,2,0,H,4.24,3.73,1.8
